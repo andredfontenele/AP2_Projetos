@@ -5,15 +5,34 @@
   </head>
   <style>
     .container {
-      width: 100vw;
+      display: flex;
+      flex-direction: column;
+      width: 99vw;
+      height: 95vh;
       text-align: center;
+      justify-content: center;
+      align-items: center;
+      margin: auto;
       font-family: Arial, sans-serif;
       color: #672557;
     }
+
+    #valores-container {
+      border: 2px solid #672557;
+    }
   </style>
   <body>
-    <h1>Comprovação de Capacidade Técnica</h1>
-    <div id="valores-container"></div>
+    <div class="container">
+      <img
+        src="../assets/logotipoceara.png"
+        alt="Imagem de exemplo"
+        width="300"
+        height="200"
+      />
+      <h1>Comprovação de Capacidade Técnica</h1>
+      <div id="valores-container"></div>
+    </div>
+
     <script src="script2.js"></script>
   </body>
 </html>
