@@ -138,7 +138,7 @@ Diante deste cenário, desenvolver um Sistema, aplicando o Padrão MVC: Lógica 
 
  <h1> Diagrama de Caso de Uso </h1>
 
-<img src="https://i.ibb.co/3z2B9wM/Diagrama-de-caso-de-uso.png" alt="Diagrama-de-caso-de-uso" border="0">
+<img src="https://i.ibb.co/7tShRD9/diagrama-de-caso-de-uso-2.png" alt="diagrama-de-caso-de-uso-2" border="0">
 
 <h1> Diagrama Conceitual </h1>
 
