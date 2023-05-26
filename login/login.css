@@ -5,6 +5,10 @@
   font-family: Arial, sans-serif;
 }
 
+body{
+  background-color: #CCBCBC;
+}
+
 h1 {
   text-align: center;
   color: #672557;

@@ -26,6 +26,6 @@ window.onload = function () {
     <p>Estado: ${estado}</p>
     <p>Profissão: ${profissao}</p>
     <p>Descrição dos Motivos de Emissão da ART: ${motivos}</p>
-    <p>O profissional declara que está cumprindo as normas específicas da sua profissão: ${declaracao}</p>
+    <p>O profissional declara que está cumprindo as normas específicas da sua profissão.</p>
   `
 }

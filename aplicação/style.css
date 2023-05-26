@@ -3,6 +3,11 @@
   font-family: Arial, sans-serif;
 }
 
+body{
+  background-color: #CCBCBC;
+}
+
+
 .container {
   width: 400px;
   margin: 50px auto;
